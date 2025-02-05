@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "504 demo"
@@ -14,6 +15,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+  
 
 editor: visual
 
