@@ -1,0 +1,16 @@
+---
+title: "Post With Code"
+author: "Suyog Chandramouli"
+date: "2025-02-04"
+categories: [news]
+---
+
+
+
+This is a post with \*\*executable code.
+
+```{r}
+1 + 1
+```
+
+![image](image.jpg]
