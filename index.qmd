@@ -1,5 +1,6 @@
 ---
 title: "504 demo_2"
+
 listing:
   contents: posts
   sort: "date desc"
@@ -7,6 +8,11 @@ listing:
   categories: false
   sort-ui: false
   filter-ui: false
+  
+project: 
+  type: website 
+  output-dir: docs
+
 page-layout: full
 title-block-banner: true
 ---
